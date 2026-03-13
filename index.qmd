@@ -1,0 +1,48 @@
+---
+title: "章靖的个人网站"
+format:
+  html:
+    css: styles.css
+---
+<div class="header">
+  <div class="brand">章靖</div>
+  <nav class="nav" aria-label="主导航">
+    <a href="#home">主页</a>
+    <a href="#about">关于我</a>
+    <a href="#resume">简历</a>
+  </nav>
+</div>
+
+<div id="home" class="container hero" style="margin-top:0;">
+  <h1>章靖</h1>
+  <p>华中农业大学植物营养学专业学生 · 热爱长跑</p>
+  <p>欢迎来到我的个人网站！这是一个简洁、现代风格的个人主页，展示我的简历要点与兴趣。</p>
+</div>
+
+<div id="about" class="container" style="padding: 24px 16px;">
+  <h2>关于我</h2>
+  <ul>
+    <li>专业：植物营养学</li>
+    <li>学校：华中农业大学</li>
+    <li>学习方向：作物营养、土壤养分管理、可持续农业</li>
+  </ul>
+</div>
+
+<div id="interests" class="container" style="padding: 24px 16px;">
+  <h2>兴趣与爱好</h2>
+  <ul>
+    <li>长跑</li>
+    <li>运动与自律</li>
+    <li>学习新技术与工具提升效率</li>
+  </ul>
+</div>
+
+<div id="resume" class="container" style="padding: 24px 16px;">
+  <h2>联系与联系信息</h2>
+  <p>如需联系，请通过站内留言或提供联系信息。</p>
+</div>
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
