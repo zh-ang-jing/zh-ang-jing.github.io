@@ -1,0 +1,43 @@
+---
+title: "Zhangjin's Personal Website"
+format:
+  html:
+    css: styles.css
+---
+<div class="header">
+  <div class="brand">Zhangjin</div>
+  <nav class="nav" aria-label="Main navigation">
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#resume">Resume</a>
+  </nav>
+</div>
+
+<div id="home" class="container hero" style="margin-top:0;">
+  <h1>Zhangjin</h1>
+  <p>Plant Nutrition student at Huazhong Agricultural University · Loves running</p>
+  <p>Welcome to my personal website! This is a clean, modern homepage showcasing resume highlights and interests.</p>
+</div>
+
+<div id="about" class="container" style="padding: 24px 16px;">
+  <h2>About Me</h2>
+  <ul>
+    <li>Major: Plant Nutrition</li>
+    <li>University: Huazhong Agricultural University</li>
+    <li>Focus: Crop Nutrition, Soil Fertility Management, Sustainable Agriculture</li>
+  </ul>
+</div>
+
+<div id="interests" class="container" style="padding: 24px 16px;">
+  <h2>Interests</h2>
+  <ul>
+    <li>Long-distance running</li>
+    <li>Sports and discipline</li>
+    <li>Learning new technologies to boost efficiency</li>
+  </ul>
+</div>
+
+<div id="resume" class="container" style="padding: 24px 16px;">
+  <h2>Contact</h2>
+  <p>To reach me, please leave a message here or provide contact information.</p>
+</div>
